@@ -5,7 +5,7 @@ This project focuses on forecasting electricity demand using time series analysi
 
 ## Dataset
 - **Source:** Kaggle
-- **Timeframe:** 30-minute intervals (2021-2024)
+- **Timeframe:** 5-minute intervals (2021-2024)
 - **Features:**
   - Power Demand
   - Temperature
