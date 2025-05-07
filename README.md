@@ -42,7 +42,7 @@ This project focuses on forecasting electricity demand using time series analysi
 - Frequent power demand spikes and zero values may indicate power outages or data issues.
 - Further analysis is needed to identify causes of sudden drops in power demand.
 - Incorporating external factors (e.g., economic activity, industrial usage) may improve forecasting accuracy.
-- Future work includes hybrid models (SARIMA + LSTM) and real-time anomaly detection.
+- Future work includes hybrid models SARIMA
 
 ## How to Use This Repository
 1. Clone or download the repository.
